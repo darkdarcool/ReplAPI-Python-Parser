@@ -1,0 +1,1 @@
+{'data': {'userByUsername': {'karma': 113}}} # Returns cycles count for me!
