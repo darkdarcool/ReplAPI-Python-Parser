@@ -7,5 +7,5 @@ class Parser:
   def cycles(self):
     return getKarma(self.data)
 
-e = Parser(compare) 
+e = Parser(None) 
 print(e.cycles())
